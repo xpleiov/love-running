@@ -217,20 +217,19 @@ hr {
 
 /* footer */
 
-footer{
+footer {
     height: 150px;
-
 }
 
-.social-networks{
+.social-networks {
     text-align: center;
 }
 
-.social-networks > li{
+.social-networks > li {
     display: inline;
 }
 
-.social-networks i{
+.social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
